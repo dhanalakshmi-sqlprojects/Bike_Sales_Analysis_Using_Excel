@@ -1,5 +1,4 @@
  Bike_Sales_Analysis_Using_Excel
- 🚲 Bike Sales Analysis Using Excel
 
  📌 Project Overview
 An Excel-based Bike Sales Analysis project to understand customer purchasing patterns and identify factors related to bike purchases.
